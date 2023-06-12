@@ -1,7 +1,6 @@
 /** @format */
-require('dotenv').config({ path: __dirname+'/.env' });
 
-const API_KEY: string = process.env.API_KEY;
+const API_KEY: string = "AIzaSyDclpdqkce-wh4yVo7UnUlGyxBI0W1ZNY0";
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.message == "get_access_token") {
