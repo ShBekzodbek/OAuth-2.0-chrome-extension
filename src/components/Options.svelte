@@ -3,7 +3,6 @@
   function signIn() {
     chrome.runtime.sendMessage({ message: "get_access_token" });
   }
-  //   chrome.runtime.sendMessage({ message: "get_access_token" });
 </script>
 
 <div class="row">

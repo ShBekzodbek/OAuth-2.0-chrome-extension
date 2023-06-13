@@ -1,6 +1,6 @@
 /** @format */
 
-const API_KEY: string = "AIzaSyDclpdqkce-wh4yVo7UnUlGyxBI0W1ZNY0";
+const API_KEY: string = AIzaSyDclpdqkce - wh4yVo7UnUlGyxBI0W1ZNY0;
 
 chrome.runtime.onMessage.addListener((request, sender, sendResponse) => {
   if (request.message == "get_access_token") {
