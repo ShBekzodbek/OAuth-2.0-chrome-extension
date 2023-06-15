@@ -1,4 +1,4 @@
-# Svelte Typescript Chrome Extension Boilerplate
+## Svelte Typescript Chrome Extension
 
 > Boilerplate for Chrome Extension Svelte Typescript project
 
