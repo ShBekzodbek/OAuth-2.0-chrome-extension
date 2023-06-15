@@ -1,9 +1,9 @@
 {
-    "name": "svelte-ts-extension-boilerplate",
-    "description": "Boilerplate for Chrome Extension Svelte Typescript project",
+    "name": "svelte-ts-extension-OAUTH2.0",
+    "description": "Sign in with chrome extension with Google Oauth2.0",
     "version": "1.0",
     "manifest_version": 3,
-    "key": "MIIBIjANBgkqhkiG9w0BAQEFAAOCAQ8AMIIBCgKCAQEAyjLo3FEe6RhOAEPOGPS0XlwgSxvISLdzuYXR9Pfi/F31GyJzR1hMTXBHBNpHu0njym+Oix6hGIq2je1orBBNZv9GBVpMwaYw1dtQ5nQL0KB+RPVG4crXmzUJhI2/ZIH0/PQhaXzILAEIyQuiLHzNUL7sKW3VTcpRLZFV08KApcmX5rMfJ1fs+/vInXPwqNwRSZuHGN4Fp7H43WGPes5yD7tlG4P9a4TOW8wdzIeSPOD5kO+Z5qK4qBu87ZnXXEN2mkCT6iaKB9X/azgVorsGxBydnvo4TOSQk4i1XsKfUayR6pvq3oBnZdzOoxYODyFZ7UwxA6H/iVqKFlbuhrMXswIDAQAB",
+    "key": "YOUR_EXTENSION_KEY",
     "icons": {
         "16": "src/assets/icons/get_started16.png",
         "32": "src/assets/icons/get_started32.png",
@@ -24,7 +24,7 @@
         }
     },
     "oauth2": {
-        "client_id": "161908945963-gueelj0jclkgbq7a5994ga08tfpmt2ec.apps.googleusercontent.com",
+        "client_id": "YOUR_CLIENT_ID",
         "scopes": [
             "profile email",
             "https://www.googleapis.com/auth/contacts"
