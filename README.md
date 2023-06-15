@@ -30,6 +30,7 @@ $ npm run build
 
 ## Load unpacked extensions
 
+
 [Getting Started Tutorial](https://developer.chrome.com/docs/extensions/mv3/getstarted/)
 
 1. Open the Extension Management page by navigating to `chrome://extensions`.
