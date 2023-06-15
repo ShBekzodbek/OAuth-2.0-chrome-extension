@@ -27,13 +27,5 @@
   .btn:active {
     border: none;
   }
-  .btn:focus {
-    border: none;
-  }
-  .btn::after {
-    border: none;
-  }
-  .btn::content {
-    border: none;
-  }
+  
 </style>
