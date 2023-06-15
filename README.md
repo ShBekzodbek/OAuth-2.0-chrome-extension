@@ -38,3 +38,5 @@ $ npm run build
 3. Click the `LOAD UNPACKED` button and select the `/dist` directory.
 
 ![Example](https://wd.imgix.net/image/BhuKGJaIeLNPW9ehns59NfwqKxF2/vOu7iPbaapkALed96rzN.png?auto=format&w=571)
+
+## [Full Tutorial](https://youtu.be/5grkEnYytF4)
